@@ -53,14 +53,6 @@
 
 ---
 
-### 📊 Proficiency & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prempanchal18&layout=compact&theme=flat&hide_border=true&title_color=0891b2&main_color=444" alt="Top Langs" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prempanchal18&theme=flat&hide_border=true&stroke=0891b2&ring=0891b2" alt="Streak" width="45%" />
-</p>
-
----
-
 ### 🤝 Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/prempanchal18/" target="_blank">
