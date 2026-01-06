@@ -1,52 +1,68 @@
-<h1 align="center">Hi 👋, I'm Prem Panchal</h1>
-<h3 align="center">MERN Stack Developer | Frontend Specialist</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Hi%20I'm%20Prem%20Panchal&fontSize=70&animation=fadeIn&fontAlignY=35" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prempanchal18&label=Profile%20views&color=0e75b6&style=flat" alt="Prem Panchal" />
-</p>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Frontend+Developer;MERN+Stack+Enthusiast;Next.js+Learner" alt="Typing SVG" />
+  </h1>
+</div>
 
----
-
-### 🧐 About Me
-- 🚀 I’m a passionate **MERN Stack Developer** focused on building clean, interactive user interfaces.
-- 🌱 I’m currently deep-diving into **Next.js** to master Server-Side Rendering.
-- 💬 Ask me about **React, Tailwind, or Node.js**.
-- 📫 Reach me at: **premm2611@gmail.com**
+### ⚡ About Me
+- 🔭 Working on **MERN Stack Applications**
+- 🌱 Mastering **Next.js** and **Advanced React**
+- 📫 Connect with me: **premm2611@gmail.com**
+- 💼 LinkedIn: [prempanchal18](https://www.linkedin.com/in/prempanchal18/)
 
 ---
 
 ### 🛠️ Languages and Tools
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="react" height="35" />
+  </a> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="javascript" height="35" />
+  </a> &nbsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="tailwind" height="35" />
+  </a> &nbsp;
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="html5" height="35" />
+  </a> &nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="css3" height="35" />
+  </a>
+</p>
 
-#### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### ⚙️ Backend & Database
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### ☕ Other
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<p align="left">
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="nodejs" height="35" />
+  </a> &nbsp;
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="express" height="35" />
+  </a> &nbsp;
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="mongodb" height="35" />
+  </a> &nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="mysql" height="35" />
+  </a> &nbsp;
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="java" height="35" />
+  </a>
+</p>
 
 ---
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/prempanchal18/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:premm2611@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+  <a href="https://www.linkedin.com/in/prempanchal18/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> &nbsp;
+  <a href="mailto:premm2611@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<br />
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=bright" alt="Quote" />
+</div>
